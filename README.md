@@ -3,7 +3,8 @@
 This analysis is based on 2014 in-patient pychiartric patient care facilities in the U.S.
 
 The metrics that the analysis is based on on: 
-* 'Hours of physical-restraint use', 'Hours of seclusion',
+* 'Hours of physical-restraint use', 
+* 'Hours of seclusion',
 * 'Patients discharged on multiple antipsychotic medications with appropriate justification',
 * 'Post-discharge continuing care plan created',
 * 'Post-discharge continuing care plan transmitted to the next level of care provider upon discharge',
@@ -14,3 +15,14 @@ The metrics that the analysis is based on on:
 * 'Percent of patients receiving follow-up care within 30 days (FUH-30) or within 7 days (FUH-7) after hospitalization for mental illness',
 * 'Influenza Immunization',
 * 'Healthcare Personnel Influenza Vaccination'
+
+
+Questions looking to answer: 
+* There are more psyciactric facilities in California
+* DC/Virginia has best facilities
+* Facilities that use Electronic Health Records are better care
+* Hours of physical-restraint use is correlated to hours of seclusion
+
+
+Data Quality Issues: 
+* Provider ID 454133
